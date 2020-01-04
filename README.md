@@ -6,8 +6,9 @@ A 2D adventure game based on morality.
 ----
 
 ### Controls: 
-Movement - WASD
-Interact - Mouse + SPACE bar
+**Movement** - WASD
+
+**Interact** - Mouse + SPACE bar
 
 ----
 ### Info
