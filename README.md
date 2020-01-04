@@ -12,11 +12,11 @@ A 2D adventure game based on morality.
 
 ----
 ### Info
-This game was made in *7 days* for the: [Community Game Jam 2019](https://itch.io/jam/cgj)
+This game was made in *7 days* for the: [Community Game Jam 2019](https://itch.io/jam/cgj) by 3 people.
 
 The theme was: `The Game Is A Liar`
 
-The Community Game Jam was hosted by: `CodeMyst, Sykoo, Blackthornprod Games, Dani, Brackeys, AquaXV, Yilian, TheDutchMagikarp, Duxez`
+Click [here](https://itsnotsimon.itch.io/beyond-eden) to play the game on itch.io!
 
 #### Ranking
 There were a total of `1041` entries during the jam, and *Beyond Eden* ranked `27th`.
