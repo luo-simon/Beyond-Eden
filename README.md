@@ -12,7 +12,7 @@ A 2D adventure game based on morality.
 
 ----
 ### Info
-*This game was made in 7 days for the: (Community Game Jam 2019)[https://itch.io/jam/cgj] *
+*This game was made in 7 days for the: [Community Game Jam 2019](https://itch.io/jam/cgj) *
 
 *The theme was: `The Game Is A Liar`
 
