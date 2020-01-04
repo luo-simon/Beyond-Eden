@@ -24,7 +24,7 @@ There were a total of `1041` entries during the jam, and *Beyond Eden* ranked `2
 ----
 
 ### Screenshots
-![Screenshot](https://github.com/luo-simon/Beyond-Eden/Screenshots/1.png "Beyond Eden")
+![Screenshot](https://github.com/luo-simon/Beyond-Eden/blob/master/Screenshots/1.png "Beyond Eden")
 ![Screenshot](https://github.com/luo-simon/Beyond-Eden/Screenshots/2.png "Beyond Eden")
 ![Screenshot](https://github.com/luo-simon/Beyond-Eden/Screenshots/3.png "Beyond Eden")
 
