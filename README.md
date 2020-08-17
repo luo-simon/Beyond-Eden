@@ -19,7 +19,7 @@ The theme was: `The Game Is A Liar`
 Click [here](https://itsnotsimon.itch.io/beyond-eden) to play the game on itch.io!
 
 #### Ranking
-There were a total of `1041` entries during the jam, and *Beyond Eden* ranked `27th`.
+There were a total of `1041` entries during the jam, and *Beyond Eden* ranked `3rd` out of all entries with over 100 ratings, and `27th` out of all entries. 
 
 ----
 
